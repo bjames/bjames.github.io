@@ -4,3 +4,26 @@
 
 layout: default
 ---
+
+
+<section id="intro">
+    <div class="flex-row-between">
+        <h1>cyb3r.sh</h1>
+        <button id="theme-toggle" onclick="modeSwitcher()">
+            <div></div>
+        </button>
+    </div>
+    <p>
+      playful computing
+    </p>
+</section>
+
+<section class="posts">
+    <h3>BLOG</h3>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></li>
+        {% endfor %}
+    </ul>
