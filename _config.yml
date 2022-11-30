@@ -21,14 +21,14 @@
 title: cyb3r.sh
 email: bran@cyb3r.sh
 description: >- # this means to ignore newlines until "baseurl:"
-  playful computing and a bit of network security
+  playful computing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  bjames
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
