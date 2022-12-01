@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[<img src="me.jpg" style="border-radius:50%; width:300px">](https://www.brandonsjames.com)
+<a href="https://www.brandonsjames.com"><img src="me.jpg" style="border-radius:50%; width:300px" /></a></p>
 
 Hello! My name is Brandon James. I am a network security engineer, currently working for meta[^1] and living in Fort Collins, CO. My professional background includes enterprise and data center networking, automation, virtualization, storage, servers and a bit of desktop support. I'm a lifelong techie and try to take the classic hacker approach to computing. That is computing in a playful manner. 
 
