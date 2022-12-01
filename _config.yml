@@ -29,7 +29,7 @@ github_username:  bjames
 
 # Build settings
 # theme: midnight
-remote_theme: manuelmazzuola/asko
+remote_theme: DavideBri/Gesko
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
