@@ -21,7 +21,7 @@
 title: cyb3r.sh
 email: bran@cyb3r.sh
 description: >- # this means to ignore newlines until "baseurl:"
-  playful computing
+  playful computing as interpreted by brandon james.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
