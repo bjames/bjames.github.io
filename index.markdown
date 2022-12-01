@@ -13,9 +13,14 @@ layout: default
             <div></div>
         </button>
     </div>
+    <div class="bio">
     <p>
       playful computing as interpreted by brandon james
     </p>
+    <p>
+	<a href="{{ site.url }}{{ site.baseurl }}/about/">> About me</a>
+    </p>
+    </div>
 </section>
 
 <section class="posts">
