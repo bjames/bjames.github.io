@@ -5,7 +5,6 @@ tags:
 - Route/Switch
 - Security
 author: Brandon James
-summary: It's simple to craft packets with identical checksums. TCP datagrams with UTF-8 encoded payloads 'No muck? rad!' and 'No luck? sad!' have identical checksums if the rest of the packet is identical. Changing the 'm' in muck to an 'l' and the 'r' in rad to a 's' results in a binary 1 being flipped to 0 and vice versa. Since these binary digits lie in the same position in different 16-bit words, the changes cancel each other out, resulting in the same checksum. 
 ---
 
 [Hacker News recently led me to a Twitter post about AT&T Fiber flipping bits in the Bay Area](https://news.ycombinator.com/item?id=25335936). This was especially interesting because:
