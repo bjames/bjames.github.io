@@ -8,7 +8,7 @@ layout: default
 
 <section id="intro">
     <div class="flex-row-between">
-        <h1>bjames@cyb3r.sh</h1>
+        <h1>cyb3r.sh</h1>
         <button id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
