@@ -8,13 +8,13 @@ layout: default
 
 <section id="intro">
     <div class="flex-row-between">
-        <h1>cyb3r.sh</h1>
+        <h1>bjames@cyb3r.sh</h1>
         <button id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
     </div>
     <p>
-      playful computing
+      playful computing as interpreted by brandon james
     </p>
 </section>
 
