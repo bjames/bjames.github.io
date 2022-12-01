@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[<img src="me.jpg" style="border-radius:50%; width:300px">](https://www.brandonsjames.com)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hello! My name is Brandon James. I am a network security engineer, currently working for meta[^1] and living in Fort Collins, CO. My professional background includes enterprise and data center networking, automation, virtualization, storage, servers and a bit of desktop support. I'm a lifelong techie and try to take the classic hacker approach to computing. That is computing in a playful manner. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of tech, I'm a father, husband, dog owner, trail runner and wannabe landscape/wildlife photographer. To see what else I'm up to, visit [brandonsjames.com](https://brandonsjames.com).
 
-
-[jekyll-organization]: https://github.com/jekyll
+[^1]: Any options expressed here are solely my own and do not necessarily reflect the position or policy of my employer.
