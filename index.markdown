@@ -22,7 +22,7 @@ layout: default
     </p>
     </div>
 </section>
-<section class="posts">
+<section class="posts" style="margin-top: 1rem;">
     <h3>BLOG</h3>
     <ul>
         {% for post in site.posts %}
