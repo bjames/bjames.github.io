@@ -13,8 +13,6 @@ permalink: /about/
   </div>
 </section>
 
-<img src="/docs/assets/images/me.jpg" style="border-radius:50%; width:300px" />
-
 Hello! My name is Brandon James. I am a network security engineer, currently working for meta[^1] and living in Fort Collins, CO. My professional background includes enterprise and data center networking, automation, virtualization, storage, servers and a bit of desktop support. I'm a lifelong techie and try to take the classic hacker approach to computing. That is computing in a playful manner. 
 
 Outside of tech, I'm a father, husband, dog owner, trail runner and wannabe landscape/wildlife photographer. To see what else I'm up to, visit [brandonsjames.com](https://brandonsjames.com).
